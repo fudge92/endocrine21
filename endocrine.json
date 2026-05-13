@@ -1,0 +1,688 @@
+{
+  "title": "Endocrine MCQ",
+  "questions": [
+    {
+      "id": "endocrine-1",
+      "question": "Indicate the correct variant of transhypophysial regulation of the endocrine glands: (1)",
+      "options": [
+        "the cerebral cortex is the peripheral gland.",
+        "cortex - hypothalamus-pituitary gland - peripheral gland.",
+        "the cerebral cortex - the hypothalamus - nerve conductors - peripheral glands.",
+        "cortex - pituitary gland - hypothalamus - peripheral gland.",
+        "subcortical centers - nerve conduits - peripheral gland"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-2",
+      "question": "Transhypophysial regulation is fundamental to: (3)",
+      "options": [
+        "pancreas",
+        "thyroid gland",
+        "gonads",
+        "parathyroid glands",
+        "adrenal cortex"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-3",
+      "question": "Hormone metabolism is impaired in diseases of: (1)",
+      "options": [
+        "liver",
+        "the spleen",
+        "hearts",
+        "lungs",
+        "nervous system"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-4",
+      "question": "Peripheral (non-glandular) mechanism of hormone  activity disturbance is: (1)",
+      "options": [
+        "deficiency of substrates for the formation of hormones.",
+        "inherited defect of hormone biosynthesis enzymes.",
+        "adenoma of the neurosecretory cells of the hypothalamus.",
+        "congenital malformations of the glands.",
+        "blockade of hormonal receptors."
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-5",
+      "question": "With eosinophilic pituitary adenoma, during the growth period of the body, it develops: (1)",
+      "options": [
+        "acromegaly",
+        "gigantism",
+        "dysplasia",
+        "pituitary dwarfism",
+        "Itsenko-Cushing's diseas5."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-6",
+      "question": "A decrease in the production of adrenocorticotropic hormone leads to: (1)",
+      "options": [
+        "a decrease in insulin synthesis",
+        "decrease the synthesis of hormones of the adrenal cortex",
+        "decrease the synthesis of hormones of the adrenal medulla",
+        "increased synthesis of thyroid hormones",
+        "increased synthesis of sex hormones"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-7",
+      "question": "Excessive production of adrenocorticotropic hormone leads to increased secretion: (1)",
+      "options": [
+        "insulin",
+        "parathyroid hormon5.",
+        "thyroxin5.",
+        "cortisol."
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-8",
+      "question": "Hypoproduction of growth hormone at a young age manifests itself in the form: (1)",
+      "options": [
+        "acromegaly",
+        "pituitary cachexia",
+        "adiposogenital dystrophy",
+        "pituitary gigantism",
+        "pituitary dwarfism"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-9",
+      "question": "The development of diabetes insipidus is due to: (1)",
+      "options": [
+        "hypersecretion of vasopressin",
+        "hyposecretion of vasopressin",
+        "hypersecretion of aldosterone",
+        "hypersecretion of aldosterone",
+        "the presence of insulin antagonists in the blood"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-10",
+      "question": "The cause of Addison's disease is most often: (1)",
+      "options": [
+        "hypertrophy of the adrenal glands",
+        "adrenal atrophy",
+        "pituitary tumor",
+        "autoimmune thyroiditis",
+        "pineal gland hyperplasia"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-11",
+      "question": "With insufficient iodine in food develops: (1)",
+      "options": [
+        "autoimmune thyroiditis",
+        "hyperthyroidism",
+        "hypoparathyroidism",
+        "endemic goiter",
+        "diffuse toxic goiter."
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-12",
+      "question": "In severe cases, hypothyroidism in adults provides development: (1)",
+      "options": [
+        "cretinism",
+        "myxedema",
+        "eunuchoidism",
+        "dwarf dwarfism",
+        "hypergonadism"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-13",
+      "question": "Hypoparathyroidism occurs with pathology:  (1)",
+      "options": [
+        "gonads",
+        "thyroid gland",
+        "parathyroid glands",
+        "thymus gland",
+        "pancreas"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-14",
+      "question": "Which endocrine disorder is defined as secondary/tertiary? (2)",
+      "options": [
+        "pathological process in a certain endocrine gland",
+        "it is a result of an increased releasing factors level",
+        "it is a result of an impaired tropic hormones regulation",
+        "it is a result of genetic defect in the gland"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-15",
+      "question": "Tachycardia in hyperthyroidism is a result of: (1)",
+      "options": [
+        "blocked parasympathetic activation",
+        "increased cardiac afterload",
+        "decreased cardiac preload",
+        "increased sympathetic activation",
+        "malignant hyperthermia"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-16",
+      "question": "The pathogenesis of chronic hypocorticism is associated with decreased levels of: (2)",
+      "options": [
+        "GCS",
+        "MCS",
+        "suprarenal sex hormones",
+        "catecholamines"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-17",
+      "question": "The biological effects of STH could be diminished in a deficiency of: (1)",
+      "options": [
+        "somatostatins",
+        "somatoliberins",
+        "somatomedins",
+        "prostaglandins",
+        "leukotriens"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-18",
+      "question": "What is the cause of primary diabetes insipidus?",
+      "options": [
+        "damage in the hypothalamus and hypophysis",
+        "hereditary defect of the adh receptors in the renal tubules",
+        "acquired defect of the adh receptors in the renal tubules",
+        "hyperplasia of the epiphysis",
+        "atrophy in substantia nigra"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-19",
+      "question": "Pheochromocytoma leads to: (1)",
+      "options": [
+        "elevated catecholamines",
+        "elevated aldosterone",
+        "increased level of tropic hormones",
+        "decreased level of catecholamines",
+        "overactivated parasympathetic nervous system"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-20",
+      "question": "In primary hyperaldosteronism: (1)",
+      "options": [
+        "aldosterone does not affect renin secretion",
+        "there is increased level of aldosterone and increased level of renin",
+        "there is decreased level of aldosterone and decreased level of renin",
+        "there is increased level of aldosterone and decreased level of renin",
+        "aldosterone augments the circadian rhythm of renin secretion"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-21",
+      "question": "What signs are characteristic of severe hypothyroidism in adults? (5)",
+      "options": [
+        "obesity",
+        "sweating",
+        "slowed intellectual and motor activity",
+        "arterial hypertension",
+        "cool skin, сold intolerance",
+        "fatigue",
+        "tachycardia",
+        "hypercholesterolemia"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4,
+        5,
+        7
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-22",
+      "question": "Indicate the possible causes of hyperthyroidism: (6)",
+      "options": [
+        "the lack of thyroliberin",
+        "excess TTH",
+        "excess immunoglobulins TSIg (LATS)",
+        "thyroiditis",
+        "thyroid adenoma",
+        "weak transport connection with blood proteins",
+        "intensive conversion of T4 to T3 in ‘target’  cells",
+        "the increase in the number of receptors T3, T4"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-23",
+      "question": "Is it true that hyperthyroidism can be autoimmune?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-24",
+      "question": "Indicate the main manifestations of hyperthyroidism: (6)",
+      "options": [
+        "increased basal metabolic rate",
+        "the tendency to hyperthermia",
+        "bradycardia",
+        "nervousness",
+        "hypoglycemia",
+        "hypercholesterolemia",
+        "systolic hypertension",
+        "weight loss",
+        "intolerance and sweating warm"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3,
+        6,
+        7,
+        8
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-25",
+      "question": "Indicate the possible causes of hypothyroidism: (5)",
+      "options": [
+        "excess ACTH",
+        "excess thyroliberin",
+        "iodine deficiency",
+        "toxic blockade of iodine uptake and tyrosine compounds",
+        "surgical or radioiodine ablation of the thyroid gland",
+        "autoimmune thyroiditis",
+        "immunoglobulin deficiency",
+        "circulating cytotoxic antithyroid antibodies"
+      ],
+      "correctAnswers": [
+        2,
+        3,
+        4,
+        5,
+        7
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-26",
+      "question": "Violations of transpituitary regulation are the basis of changes in production of 1.insulin 2.glucagon 3.parathyrin 4.catecholamines 5. thyroid hormones +",
+      "options": [
+        "insulin",
+        "glucagon",
+        "parathyrin",
+        "catecholeamine",
+        "thyroid hormone"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-27",
+      "question": "For thyrotoxicosis, the following set of symptoms is characteristic: (3)",
+      "options": [
+        "exophthalmos, cold skin, tachycardia",
+        "periorbital edema, tachycardia, muscle weakness",
+        "exophthalmos, tachycardia, increased basal metabolic rate",
+        "inhibition, hot skin, hypotension",
+        "sweating, fine tremor, shaky handwriting, clumsiness",
+        "hyperthermia, constipation, memory loss",
+        "hyperthermia, diarrhea, arterial hypertension"
+      ],
+      "correctAnswers": [
+        2,
+        4,
+        6
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-28",
+      "question": "For hypothyroidism, the following set of symptoms is characteristic: (4)",
+      "options": [
+        "coldness, slowing down of the basal metabolic rate, constipation",
+        "inhibition, hot skin, hypetension",
+        "cerebral ataxia, cold skin, bradycardia",
+        "arterial hypotension, sweating, irritability",
+        "decreased intelligence, hyperthermia, diarrhea",
+        "hypothermia, decreased memory, constipation",
+        "decreased memory, muscle weakness, periorbital puffiness"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        5,
+        6
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-29",
+      "question": "Metabolism of hormones is disrupted in diseases by",
+      "options": [
+        "liver",
+        "the spleen",
+        "heart",
+        "lungs",
+        "nervous system."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-30",
+      "question": "Hypoproteinemia is accompanied by",
+      "options": [
+        "an increase in the fraction of free hormone and increasing their effects",
+        "an increase in the fraction of free hormone and a decrease in their  effects",
+        "a decrease in the fraction of free hormone and a decrease in their effects",
+        "a decrease in the fraction of free hormone and an increase in their  effects ",
+        "the perverse effect of hormones."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-31",
+      "question": "The peripheral (outside glandular) breaking mechanism of activity of hormones are:",
+      "options": [
+        "deficiency of substrates for the formation of hormones",
+        "hereditary defect of enzymes for biosynthesis of hormones",
+        "adenoma of neurosecretory cells of the hypothalamus",
+        "congenital anomalies of development of glands",
+        "the blockade of hormone receptors"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-32",
+      "question": "When eosinophilic pituitary adenoma during the period of growth the organism develops",
+      "options": [
+        "acromegaly",
+        "gigantism",
+        "dysplasia",
+        "pituitary dwarfism",
+        "Itsenko-Cushing’s diseas"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-33",
+      "question": "The sudden cancellation of long-term corticosteroid therapy leads to insufficiency of:",
+      "options": [
+        "parathyroid hormone",
+        "growth hormone",
+        "epinephrine",
+        "ACTH"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-34",
+      "question": "Antidiuretic hormone deficiency is characterized by:",
+      "options": [
+        "polyuria, hypostenuria, polydipsia",
+        "polyuria, hyperstenuria, polydipsia",
+        "oliguria, edema",
+        "glycosuria, polyuria, polydipsia",
+        "oliguria, proteinuria, hematuria."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-35",
+      "question": "The excitation of the central nervous system, high blood pressure, hyperglycemia, osteoporosis, lymphocytolysis are observed at hyperproduction of",
+      "options": [
+        "melanostimulating hormone",
+        "parathyroid hormone",
+        "sex hormones",
+        "lucocorticosteroids",
+        "catecholamines."
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-36",
+      "question": "Cause Addison’s disease most often",
+      "options": [
+        "adrenal hypertrophy",
+        "adrenal atrophy",
+        "pituitary tumor",
+        "autoimmune thyroiditis",
+        "hyperplasia epiphysis"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-37",
+      "question": "In severe cases of hypothyroidism in adults arises",
+      "options": [
+        "cretinism",
+        "myxedema"
+        "eunuch syndrome", 
+        "dwarfism",
+        "hypergonadism."
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-38",
+      "question": "Hypoparathyroidism occurs when the pathology of",
+      "options": [
+        "the gonads",
+      "thyroid gland",
+        "parathyroid glands",
+        "thymus",
+        "pancreas.",
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-39",
+      "question": "When insulin deficiency hyperglycemia is caused by:",
+      "options": [
+        "decreased glucose utilization by tissues",
+        "an increase in hepatic glucose production (gluconeogenesis)",
+        "an increase in lipogenesis",
+        "all mentioned factors."
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-40",
+      "question": "In which cases increased secretion of aldosterone?",
+      "options": [
+        "decrease in volume of circulating blood",
+        "an increase in volume of circulating blood",
+        "hyponatremia and hyperkalemia",
+        "hypernatremia and hypokalemia",
+        "increased activity of the renin-angiotensin system"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-41",
+      "question": "Enlargement of the thyroid gland, exophthalmus, increase of basal metabolism and heat production, tachycardia, increased mental excitability are characteristic",
+      "options": [
+        "diabetes mellitus",
+        "hypothyroidism",
+        "Addison’s disease",
+        "Basedow’s disease",
+        "Cushing’s diseas."
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-42",
+      "question": "Conn’s syndrome (primary aldosteronism) is manifested by",
+      "options": [
+        "loss of sodium and potassium delay",
+        "the retention of sodium and loss of potassium",
+        "oliguria",
+        "hypotension"
+        "accumulation of hydrogen ions"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "endocrine-43",
+      "question": "If not enough iodine in the diet develops",
+      "options": [
+        "hypoparathyroidism",
+        "endemic goiter",
+        "diffuse toxic goiter"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    }
+  ]
+}
